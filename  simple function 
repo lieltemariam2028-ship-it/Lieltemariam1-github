@@ -1,0 +1,7 @@
+# Created on iPad.
+def Lielte():
+	print("Hello josi")
+def Josi():
+    print("Hello Lielte")
+Lielte()
+Josi()
