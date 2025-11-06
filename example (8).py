@@ -11,4 +11,3 @@ def unit_conversion():
         print("Please enter a proper unit (celsius or fahrenheit)")
 
 unit_conversion()
-!
